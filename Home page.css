@@ -59,7 +59,7 @@ a {
   font-size: 20px;
 }
 body{
-  background-image: url(books.jpg);
+  background-color:aqua;
   background-repeat:no-repeat;
   width:auto;
   opacity: 1px;
