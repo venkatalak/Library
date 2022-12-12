@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.footer {
+  position: fixed;
+  min-height: 10%;
+  bottom: 0px;
+  width: 100%;
+  padding: 30px;
+  background-color: rgb(15, 5, 5);
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
